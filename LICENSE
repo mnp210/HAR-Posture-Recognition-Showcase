@@ -1,0 +1,26 @@
+MIT License (Documentation & Showcase Assets)
+
+Copyright (c) 2026 mnp210
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this documentation and associated showcase materials (the "Materials"), to deal
+in the Materials without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Materials, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Materials.
+
+NOTICE OF PROPRIETARY IMPLEMENTATION:
+This repository contains high-level architecture designs, specifications, evaluation
+reports, and interface documentation. The underlying proprietary implementation
+source code, machine learning model weights, and datasets remain private intellectual
+property and are excluded from this license grant.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE
+MATERIALS.

@@ -1,0 +1,51 @@
+# Ignore everything by default to ensure no private code, data, or models are ever added
+# This repository is a documentation and architecture showcase only.
+
+# Python & environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Model checkpoints & weights (Proprietary)
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.h5
+*.pkl
+*.joblib
+models/
+
+# Datasets & processed arrays (Proprietary)
+*.npy
+*.npz
+*.csv
+*.parquet
+*.jsonl
+data/
+
+# Archives & binaries
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Sensitive local files
+.env
+*.env
+*.log
