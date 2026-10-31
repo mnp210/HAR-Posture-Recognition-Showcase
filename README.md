@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/har-banner.png" alt="HAR Posture Recognition — Real-Time Ergonomics System" width="100%" />
+</p>
+
 # Human Activity Recognition & Posture Classification System (HAR)
 
 [![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
