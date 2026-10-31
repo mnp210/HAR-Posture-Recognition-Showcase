@@ -102,6 +102,10 @@ All metrics were empirically measured and verified across the codebase test suit
 
 ## 🖥️ Live Cyberpunk HUD Interface
 
+<p align="center">
+  <img src="./assets/har-hud-preview.png" alt="HAR Posture Recognition Cyberpunk HUD Interface" width="100%" />
+</p>
+
 The client frontend is built as a zero-dependency HTML5/CSS3/Vanilla JS single-page application with a high-contrast tactical HUD:
 
 - **Canvas Keypoint Visualizer:** Real-time skeleton overlay connecting joints with chromatic green/cyan line segments and keypoint nodes.
